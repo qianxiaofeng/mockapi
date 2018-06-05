@@ -1,0 +1,15 @@
+### create account
+GET http://localhost:8080/upgrade
+Accept: */*
+Cache-Control: no-cache
+
+
+###
+
+### create account
+GET http://localhost:8080/network
+Accept: */*
+Cache-Control: no-cache
+
+
+###

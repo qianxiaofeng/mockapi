@@ -1,0 +1,10 @@
+app:
+  version: 0.1.0
+  name: mockapi-production
+  api:
+    debug: false
+    address: 0.0.0.0
+    port: 8080
+  bpInfo: '{"bp_info_list":[{"public_key":"EOS54WFpN6tdEieiTqoEhWHJumxFcQFJGegLiB3cDX21mEr17HeDb","logo":"https://steemitimages.com/0x0/https://steemitimages.com/DQmWs93EuTs1CrgazwChGBqj7eygJoQ4HqB9ANWMN8TMHc8/eoosss1920_0023.jpg","producer_name":"meetone11111","organization_name":"EOSIO.SG"},{"public_key":"EOS8fuYicHGC69wvRppEYdbwaJypXPdxfyGHbTwGn5XFqn2aMgeme","logo":"https://steemitimages.com/0x0/https://steemitimages.com/DQmWs93EuTs1CrgazwChGBqj7eygJoQ4HqB9ANWMN8TMHc8/eoosss1920_0023.jpg","producer_name":"eosiomeetone","organization_name":"EOSEoul"},{"public_key":"EOS8cnn2mSSzfsAiqScANriVkZqan7ZuthHuwu7xNNwubjxezYjfJ","logo":"https://steemitimages.com/0x0/https://steemitimages.com/DQmWs93EuTs1CrgazwChGBqj7eygJoQ4HqB9ANWMN8TMHc8/eoosss1920_0023.jpg","producer_name":"meetonetesta","organization_name":"EOS Nation"},{"public_key":"EOS8cnn2mSSzfsAiqScANriVkZqan7ZuthHuwu7xNNwubjxezYjfJ","logo":"https://steemitimages.com/0x0/https://steemitimages.com/DQmWs93EuTs1CrgazwChGBqj7eygJoQ4HqB9ANWMN8TMHc8/eoosss1920_0023.jpg","producer_name":"eosiomeet345","organization_name":"MEET.ONE"},{"public_key":"EOS8cnn2mSSzfsAiqScANriVkZqan7ZuthHuwu7xNNwubjxezYjfJ","logo":"https://steemitimages.com/0x0/https://steemitimages.com/DQmWs93EuTs1CrgazwChGBqj7eygJoQ4HqB9ANWMN8TMHc8/eoosss1920_0023.jpg","producer_name":"meetone33333","organization_name":"EOS Cannon"}],"contributors":["meetone11111","meetonotesta","eosiomeet345","meetone33333","eoseoul11111"]}'
+  upgrade: '{"version":"0.1","download":"http://eosio.sg"}'
+  network: '[{"name":"Main Network","is_mainnet":true,"chain_id":"","domains":["http://mainnet.eosio.sg","http://mainnet.meet.one","http://mainnet.eoscannon.io"]},{"name":"Grape Testnet","is_mainnet":false,"chain_id":"cf057bbfb72640471fd910bcb67639c22df9f92470936cddc1ade0e2f2e7dc4f","domains":["http://13.251.3.82:8888"]}]'
