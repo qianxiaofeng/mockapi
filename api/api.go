@@ -24,6 +24,7 @@ func Run() {
 	port := config.App.Api.Port
 	address := config.App.Api.Address
 	debug := config.App.Api.Debug
+
 	if debug {
 		gin.SetMode(gin.DebugMode)
 	}else{

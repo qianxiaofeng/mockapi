@@ -20,6 +20,7 @@ func BootConfig() {
 func initProfile() {
 	viper.SetDefault("profile", "dev")
 	viper.BindEnv("profile")
+	fmt.Println(viper.Get("profile"))
 }
 
 func initAppConfig() {

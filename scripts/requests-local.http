@@ -13,3 +13,11 @@ Cache-Control: no-cache
 
 
 ###
+
+### create account
+GET http://localhost:8080/bp/info
+Accept: */*
+Cache-Control: no-cache
+
+
+###
